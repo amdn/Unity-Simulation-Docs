@@ -8,7 +8,7 @@ The Unity Simulation service uses your Unity Account to determine your identity 
 
 ## Projects
 
-The Unity Simulation service operates against a single Unity project at a time. You must have a Unity project created and associated with your Unity account use the Unity Simulation service.
+The Unity Simulation service operates against a single Unity project at a time. You must have a Unity project created and associated with your Unity account to use the Unity Simulation service.
 
 ## Data Retention
 
