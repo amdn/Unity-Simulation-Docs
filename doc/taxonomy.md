@@ -55,7 +55,7 @@ The id values are used when creating a Run Definition as the value of the `sys_p
 
 ## Run Definition (run-def)
 
-A JSON file defining a particular sys-param ID, one or more app-param IDs with the number of times that the simulation should be ran with that particular app-param, and a single build ID.
+A JSON file defining a particular sys-param ID, one or more app-param IDs with the number of times that the simulation should be run with that particular app-param, and a single build ID.
 
 **NOTE:** A simulation will be executed the same number of times as the sum of all `num_instances` values for all app-params in a run-definition. The example below will have a simulation that executes a total of 9 times. Once with `APP_PARAM_ID_0` and eight times with `APP_PARAM_ID_1`.
 
